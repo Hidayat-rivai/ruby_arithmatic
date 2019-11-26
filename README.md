@@ -1,1 +1,2 @@
-# ruby_arithmatic
+# Arithmatic Operator
+operator that used for calculation
